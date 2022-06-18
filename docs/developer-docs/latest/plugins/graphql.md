@@ -48,7 +48,7 @@ You can also setup any [Apollo Server options](https://www.apollographql.com/doc
 You can edit these [configurations](/developer-docs/latest/setup-deployment-guides/configurations/optional/plugins.md) by creating the following file:
 
 :::caution
-Please note the setting for GraphQL `tracing` as changed and has been moved to `apolloServer.tracing`
+Please note the setting for GraphQL `tracing` has changed and has been moved to `apolloServer.tracing`
 :::
 
 ```js
